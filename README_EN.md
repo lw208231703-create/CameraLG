@@ -1,4 +1,4 @@
-# camerui - Industrial Camera Image Acquisition & Analysis Platform
+# CameraLG - Industrial Camera Image Acquisition & Analysis Platform
 
 [中文](README.md)
 
