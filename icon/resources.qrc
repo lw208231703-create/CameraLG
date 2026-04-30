@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>launch_icon.png</file>
+        <file>Continuous_Capture.svg</file>
+        <file>Curtain_Fill.png</file>
+        <file>Data_input.svg</file>
+        <file>Save_a_single_image.svg</file>
+        <file>Save_multiple_images.svg</file>
+        <file>one-to-one.svg</file>
+        <file>Scan.svg</file>
+        <file>Single capture.svg</file>
+        <file>Stop_capture.svg</file>
+        <file>View_Settings.svg</file>
+        <file>left.svg</file>
+        <file>up.svg</file>
+        <file>down.svg</file>
+        <file>close.svg</file>
+        <file>check mark.svg</file>
+        <file>FPS.svg</file>
+        <file>GigE.svg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Data_input.svg</file>
+    </qresource>
+    <qresource prefix="/styles">
+        <file>../dark_theme.qss</file>
+    </qresource>
+</RCC>
