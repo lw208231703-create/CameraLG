@@ -1,4 +1,4 @@
-# camerui - 工业相机图像采集与分析平台
+# CameraLG - 工业相机图像采集与分析平台
 
 [English](README_EN.md)
 
