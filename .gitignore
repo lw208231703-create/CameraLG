@@ -1,0 +1,16 @@
+﻿# 忽略所有.log文件
+*.log
+#忽略build，out和.vs文件夹
+/build/
+/build_*/
+/.qtcreator/
+/.vs/
+/out/
+/build_x64/
+/demo/
+/cloc-2.08.exe
+/all_DLL/*
+*.json
+# CodeQL artifacts
+_codeql_detected_source_root
+_codeql_build_dir/
